@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/londonappbrewery/i-am-poor-android-AnkuranDas.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/londonappbrewery/magic-8-ball-android-AnkuranDas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Android projects" />
